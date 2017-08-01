@@ -141,3 +141,9 @@ The SDR dongles have a maximum range of about 20–1800 MHz so we are only going
 * Known as "decimeter band"
 * Propagate by line-of-site propagation (LOS) so it can blocked by hills and large buildings, but not necessarily through walls
 * Signals can be degraded by atmospheric moisture
+
+## Hardware considerations
+
+### Impedence
+
+* SDR dongles will typically have an impedence of 75 Ohms, but any mismatch between 50 Ohm cables and the receiver will be minimal because we are not transmitting.
