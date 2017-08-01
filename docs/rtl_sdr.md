@@ -62,7 +62,7 @@ The RTL-SDR dongles have a maximum range of about 20 MHz to 2 GHz so we are only
     </thead>
     <tbody>
         <tr>
-            <td>HF<br />[High Frequency](#high-frequency)</td>
+            <td>HF<br /><a href="user-content-high-frequency">High Frequency</a></td>
             <td>3–30 MHz</td>
             <td>100 m – 10 m</td>
             <td>
