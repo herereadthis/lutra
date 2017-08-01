@@ -49,8 +49,6 @@ run_gqrx.sh
 
 The RTL-SDR dongles have a maximum range of about 20 MHz to 2 GHz so we are only focus on those frequencies.
 
-[Ultra High Frequency](#ultra-high-frequency)
-
 <table>
     <thead>
         <tr>
@@ -80,7 +78,7 @@ The RTL-SDR dongles have a maximum range of about 20 MHz to 2 GHz so we are only
             </td>
         </tr>
         <tr>
-            <td>VHF<br />[Very High Frequency](#very-high-frequency)</td>
+            <td>VHF<br /><a href="#user-content-very-high-frequency">Very High Frequency</a></td>
             <td>30–300 MHz</td>
             <td>10 m – 1 m</td>
             <td>
@@ -95,7 +93,7 @@ The RTL-SDR dongles have a maximum range of about 20 MHz to 2 GHz so we are only
             </td>
         </tr>
         <tr>
-            <td>UHF<br />[Ultra High Frequency](#ultra-high-frequency)</td>
+            <td>UHF<br /><a href="#user-content-ultra-high-frequency">Ultra High Frequency</a></td>
             <td>300–3000 MHz</td>
             <td>1 m – 100 mm</td>
             <td>
