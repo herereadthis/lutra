@@ -1,6 +1,6 @@
 # RTL-SDR
 
-SDR is software-defined radio. We are going to get radio signals, and then use the Raspberry Pi to interpret the signals.
+RTL-SDR is software-defined radio using a DVB-TV tuner based on the RTL2832U chipset. We are going to get radio signals, and then use the Raspberry Pi to interpret the signals.
 
 ## Installation
 
@@ -43,11 +43,11 @@ cd gqrx-2.6-rpi3-2
 ./setup_gqrx.sh
 
 # Run the application
-run_gqrx.sh
+./run_gqrx.sh
 ```
 ## Radio Spectrum
 
-The RTL-SDR dongles have a maximum range of about 20 MHz to 2 GHz so we are only focus on those frequencies.
+The SDR dongles have a maximum range of about 20–1800 MHz so we are only going to focus on those frequencies.
 
 <table>
     <thead>
