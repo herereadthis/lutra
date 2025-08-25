@@ -1,0 +1,31 @@
+{
+    "meta": {
+        "author": "ToriBee",
+        "authorUrl": "https://toribee.itch.io/",
+        "source": "I Come to You in Silk",
+        "sourceUrl": "https://toribee.itch.io/i-come-to-you-in-silk",
+        "format": "d20"
+    },
+    "data": [
+        {"id": 1, "value": "A glass jar of your laughter, sealed and trembling. You can open it once to remember joy—but you'll never laugh again."},
+        {"id": 2, "value": "Silken gloves stitched from your childhood fears. Wearing them makes you brave but numb."},
+        {"id": 3, "value": "A mirror that shows only how he sees you: radiant, empty, devoted."},
+        {"id": 4, "value": "A crown of antennae, still twitching. You can hear the thoughts of moths… and they pity you."},
+        {"id": 5, "value": "A sealed letter in your own handwriting addressed “To My Future Wings.” You do not remember writing it."},
+        {"id": 6, "value": "A bundle of teeth that aren’t yours—but fit your mouth perfectly."},
+        {"id": 7, "value": "A veil woven from eyelash threads. When worn, you see things you shouldn’t: yourself at the altar, already changed."},
+        {"id": 8, "value": "A clay figurine of yourself, hollow and warm. Something moves inside it when you sleep."},
+        {"id": 9, "value": "A music box that plays the tune you were born to. You now hum it when afraid."},
+        {"id": 10, "value": "A moth’s cocoon stitched with a pulse. When held to your chest, it slows your heart."},
+        {"id": 11, "value": "A wedding band carved from a wishbone. If broken, you may regain a lost trait—but at a terrible price."},
+        {"id": 12, "value": "A gown of dusk, constantly unraveling into moths. When worn, your footsteps make no sound."},
+        {"id": 13, "value": "A scrap of your skin, pressed like a flower in a book of vows. You have no idea when it was taken."},
+        {"id": 14, "value": "A ring box with a live eye inside. It blinks when he’s watching. Which is always."},
+        {"id": 15, "value": "A comb made from ribs, engraved with your true name (you forgot it long ago). Using it grants clarity for a moment."},
+        {"id": 16, "value": "A candle that burns with your voice. It cannot be relit. Use it wisely."},
+        {"id": 17, "value": "A dead twin moth, identical to you in every way. Its wings fall off if you speak aloud."},
+        {"id": 18, "value": "A jar of air from the night he first saw you. Inhale it to remember… or to forget."},
+        {"id": 19, "value": "A letter opener shaped like a spine. Once used, you can’t stop reading letters not meant for you."},
+        {"id": 20, "value": "A kiss of binding, placed gently in your dreams. You wake with silk across your lips—and cannot lie anymore."}
+    ]
+}
