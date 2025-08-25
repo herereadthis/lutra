@@ -1,9 +1,13 @@
 {
     "meta": {
-        "author": "ToriBee",
-        "authorUrl": "https://toribee.itch.io/",
-        "source": "I Come to You in Silk",
-        "sourceUrl": "https://toribee.itch.io/i-come-to-you-in-silk",
+        "author": {
+            "name": "ToriBee",
+            "url":  "https://toribee.itch.io/"
+        },
+        "source": {
+            "name": "I Come to You in Silk",
+            "url": "https://toribee.itch.io/i-come-to-you-in-silk"
+        },
         "format": "d20"
     },
     "data": [
