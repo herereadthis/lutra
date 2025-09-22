@@ -6,3 +6,10 @@ downloads/
 twitter/speedtest_tracking.json
 *.idea/
 .cache/
+
+# latex
+*.aux
+*.log
+*.synctex.gz
+*.out
+.DS_Store
